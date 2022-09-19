@@ -1,2 +1,1 @@
-# IDS
-IDS and Anomaly Detector, 
+# :wave: Intrusion Detection System
