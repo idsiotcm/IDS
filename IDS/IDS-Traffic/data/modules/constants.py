@@ -17,8 +17,8 @@ TRUNCATE_NETWORK_DATA = False
 CURRENT_PATH = pathlib.Path(__file__).parent.resolve()
 
 EMAIL_FROM = "idsiotcm2022@gmail.com"
-EMAIL_TO = "cdavidf98@gmail.com"
 EMAIL_PASSWORD = "kovdxqljgowfmhcm"
+EMAIL_TO = "cdavidf98@gmail.com"
 
 UBIDOT_TOKEN = "BBFF-uAszWik62GKJzIk26TON8sdVaWa8uv"
 UBIDOT_DEVICE = "IDS-Traffic"
