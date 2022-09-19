@@ -114,15 +114,7 @@ while (1):
     #Subir a ubidots
     if (len(cadena)>3):
         subir(cadena)
-    #escritura de archivo csv
-    listaCadena = cadena.split(",")
-    if (len(listaCadena)>5):
-        archivo = open("data.csv", "a")
-        if os.stat('data.csv').st_size == 0:
-            archivo.write(sensores + "\n")
-        archivo.write(cadena + "\n")
-        archivo.close()
-        
+            
     time.sleep(68)
    
     pass
