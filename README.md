@@ -80,7 +80,13 @@ This key consists of a combination of 16 random characters that allows the progr
   ```
   python train.py
   ```
+  
   #### Step 3.
+  
+  The activation of the gmail account must be done to level 2 authentication, this is done at the Gmail Account point, from where the application key is taken, this key is replaced in the corresponding variable so that it is able to notify via email.
+  
+  
+  #### Step 4.
   With the generated model only the program is executed. anomaly_detector.py
   ```
   python anomaly_detector.py
