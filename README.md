@@ -38,8 +38,12 @@ Génessis Mabel Enríquez Lalangui y Cristopher David Vega Salazar
   
 ## :octocat: Gmail Account
 
-  Given that in order for the program to send emails, it is necessary to identify yourself with a login, since it represents a great security flaw to enter the email and password of the email, since it would be visible to anyone. It is necessary to convert the gmail account to security level 2 and generate an application key.
+   Given that in order for the program to send emails, it is necessary to identify yourself with a login, since it represents a great security flaw to enter the email and password of the email, since it would be visible to anyone. It is necessary to convert the gmail account to security level 2 and generate an application key.
 In the following link.
+
+  ```
+  https://support.google.com/accounts/answer/185833?hl=en
+  ```
 
 This key consists of a combination of 16 random characters that allows the program to send emails without having to write the main key.
 
